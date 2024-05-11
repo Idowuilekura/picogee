@@ -1,8 +1,7 @@
-# picogee
+# Welcome to picogee
 
 
 [![image](https://img.shields.io/pypi/v/picogee.svg)](https://pypi.python.org/pypi/picogee)
-[![image](https://img.shields.io/conda/vn/conda-forge/picogee.svg)](https://anaconda.org/conda-forge/picogee)
 
 [![image](https://pyup.io/repos/github/idowuilekura/picogee/shield.svg)](https://pyup.io/repos/github/idowuilekura/picogee)
 
@@ -11,7 +10,7 @@
 
 
 -   Free software: GNU General Public License v3
--   Documentation: https://idowuilekura.github.io/picogee
+-   Documentation: <https://idowuilekura.github.io/picogee>
     
 
 ## Features
